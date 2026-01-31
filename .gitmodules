@@ -1,0 +1,3 @@
+[submodule "nablarch-handler-queue-designer"]
+	path = nablarch-handler-queue-designer
+	url = https://github.com/kumanoGoro/nablarch-handler-queue-designer
