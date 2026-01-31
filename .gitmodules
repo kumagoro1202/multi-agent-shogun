@@ -1,3 +1,6 @@
 [submodule "nablarch-handler-queue-designer"]
 	path = nablarch-handler-queue-designer
 	url = https://github.com/kumanoGoro/nablarch-handler-queue-designer
+[submodule "nablarch-quality-gate"]
+	path = nablarch-quality-gate
+	url = https://github.com/kumanoGoro/nablarch-quality-gate
