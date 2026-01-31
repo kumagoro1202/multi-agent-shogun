@@ -4,3 +4,6 @@
 [submodule "nablarch-quality-gate"]
 	path = nablarch-quality-gate
 	url = https://github.com/kumanoGoro/nablarch-quality-gate
+[submodule "nablarch-mcp-server"]
+	path = nablarch-mcp-server
+	url = https://github.com/kumanoGoro/nablarch-mcp-server
