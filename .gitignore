@@ -10,6 +10,7 @@ test_output/
 
 # Generated skills (local development)
 skills/
+scripts/
 
 # Temporary files
 *.tmp

@@ -1,9 +1,12 @@
 [submodule "nablarch-handler-queue-designer"]
 	path = nablarch-handler-queue-designer
-	url = https://github.com/kumanoGoro/nablarch-handler-queue-designer
-[submodule "nablarch-quality-gate"]
-	path = nablarch-quality-gate
-	url = https://github.com/kumanoGoro/nablarch-quality-gate
+	url = https://github.com/kumagoro1202/nablarch-handler-queue-designer.git
 [submodule "nablarch-mcp-server"]
 	path = nablarch-mcp-server
-	url = https://github.com/kumanoGoro/nablarch-mcp-server
+	url = https://github.com/kumagoro1202/nablarch-mcp-server.git
+[submodule "nablarch-quality-gate"]
+	path = nablarch-quality-gate
+	url = https://github.com/kumagoro1202/nablarch-quality-gate.git
+[submodule "nablarch-research-output"]
+	path = nablarch-research-output
+	url = https://github.com/kumagoro1202/nablarch-research-output.git
